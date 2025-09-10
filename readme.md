@@ -1,2 +1,2 @@
 # Hello! Welcome to my Profile!
-## I'm cut1ness, junior C and Python Developer!
+## I'm cut1ness, C and Python Developer!
